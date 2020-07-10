@@ -8,3 +8,6 @@ describe "#using_times" do
 	expect{ using_times }.to output(looping_string).to_stdout 
 	end
 end
+
+
+  
